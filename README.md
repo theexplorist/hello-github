@@ -1,2 +1,2 @@
 # hello-github
-A scenario created to github desktop Learning Purpose
+A scenario created for github desktop Learning Purpose
